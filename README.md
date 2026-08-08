@@ -390,7 +390,7 @@ SLA Compliance
 **SLA:**
 
 ```text
-99.9% uptime for the APP
+99.9% uptime required for the APP
 ```
 
 **Testing / QA perspective:**
