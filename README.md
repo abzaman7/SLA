@@ -439,15 +439,10 @@ A good SLA should clearly define:
 
 ```text
 What will be provided?
-        ↓
 What is included?
-        ↓
 What level of service is expected?
-        ↓
 How will it be measured?
-        ↓
 Who is responsible?
-        ↓
 What happens if the target is missed?
 ```
 
