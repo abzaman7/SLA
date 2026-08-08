@@ -421,14 +421,13 @@ A **Service Level Agreement (SLA)** establishes a measurable agreement between a
 
 A good SLA should clearly define:
 
-```text
-What will be provided?
-What is included?
-What level of service is expected?
-How will it be measured?
-Who is responsible?
-What happens if the target is missed?
-```
+* What will be provided?
+* What is included?
+* What level of service is expected?
+* How will it be measured?
+* Who is responsible?
+* What happens if the target is missed?
+
 
 The specific terms and metrics of an SLA vary depending on the **type of service, business requirements, technical environment, and customer expectations**.
 
