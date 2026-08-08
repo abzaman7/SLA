@@ -356,7 +356,7 @@ This makes the SLA more than just a business document. It becomes a **measurable
 
 ---
 
-# 🔄 SLA vs Testing Requirements
+# 🔄 Testing the SLA
 
 An SLA may define a business-level expectation, while testing helps verify whether the system actually satisfies that expectation.
 
@@ -390,7 +390,7 @@ SLA Compliance
 **SLA:**
 
 ```text
-99.9% uptime
+99.9% uptime for the APP
 ```
 
 **Testing / QA perspective:**
