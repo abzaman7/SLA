@@ -1,6 +1,6 @@
 # SLA
 
-# 📑 Table of Contents
+## 📑 Table of Contents
 
 * [What is an SLA?](#-what-is-an-sla)
 * [Why is an SLA Important?](#-why-is-an-sla-important)
