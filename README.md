@@ -11,6 +11,7 @@ This repository explores SLAs from both a general and SQA perspective, covering 
 * [Common SLA Metrics](#-common-sla-metrics)
 * [SLA Examples](#-sla-examples)
 * [SLA from an SQA Perspective](#-sla-from-an-sqa-perspective)
+* [Testing the SLA](#-testing-the-sla)
 * [Benefits of an SLA](#-benefits-of-an-sla)
 * [Conclusion](#-conclusion)
 
@@ -18,13 +19,12 @@ This repository explores SLAs from both a general and SQA perspective, covering 
 
 ## 🔎 What is an SLA?
 **SLA stands for Service Level Agreement.**
+
 A **Service Level Agreement (SLA)** defines the level of service that a provider is contractually or operationally expected to deliver to a client.
 
 > It is a formal agreement between a **service provider** and a **client** that defines the expected level of service, measurable performance standards, responsibilities, and what happens when those standards are not met.
 
 An SLA establishes a **clear and measurable understanding of service expectations** between both parties. It helps organizations monitor service quality, manage expectations, and continuously improve their services.
-
----
 
 It answers important questions such as:
 
@@ -71,6 +71,18 @@ Without clearly defined service levels, disagreements can occur because each par
 ## 🧩 Key Components of an SLA
 
 A well-designed SLA typically contains the following components.
+
+```
+* Service Description
+* Scope
+* Service Levels
+* Responsibilities
+* Client
+* Reporting & Monitoring
+* Escalation Procedures
+```
+**Let's go over them briefly.**
+
 
 ### 1. 📦 Service Description
 
@@ -229,6 +241,7 @@ SLA performance is typically measured using specific and quantifiable metrics.
 
 ---
 
+
 # 📝 SLA Examples
 
 The exact SLA terms depend on the type of service being provided and the needs of the customer.
@@ -355,31 +368,6 @@ This makes the SLA more than just a business document. It becomes a **measurable
 # 🔄 Testing the SLA
 
 An SLA may define a business-level expectation, while testing helps verify whether the system actually satisfies that expectation.
-
-```text
-Business Expectation
-        │
-        ▼
-       SLA
-        │
-        ▼
-Quality Requirements
-        │
-        ▼
-Testing Strategy
-        │
-        ▼
-Test Cases / Test Scenarios
-        │
-        ▼
-Test Execution
-        │
-        ▼
-Results & Metrics
-        │
-        ▼
-SLA Compliance
-```
 
 ### Example
 
