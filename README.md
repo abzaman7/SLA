@@ -1,9 +1,4 @@
-# SLA
-This repository explores SLAs from both a general and SQA perspective, covering key concepts, specific details, and practical examples to help you better understand how SLAs work in Software Quality Assurance.
-</br>
-</br>
-
-## 📑 Table of Contents
+# 📑 Table of Contents
 
 * [What is an SLA?](#-what-is-an-sla)
 * [Why is an SLA Important?](#-why-is-an-sla-important)
