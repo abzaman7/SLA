@@ -3,7 +3,7 @@ This repository explores SLAs from both a general and SQA perspective, covering 
 </br>
 </br>
 
-# 📋 Service Level Agreement (SLA)
+# Service Level Agreement (SLA)
 
 **SLA stands for Service Level Agreement.**
 
