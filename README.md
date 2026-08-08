@@ -19,7 +19,9 @@ This repository explores SLAs from both a general and SQA perspective, covering 
 ## 🔎 What is an SLA?
 **SLA stands for Service Level Agreement.**
 A **Service Level Agreement (SLA)** defines the level of service that a provider is contractually or operationally expected to deliver to a client.
+
 > It is a formal agreement between a **service provider** and a **client** that defines the expected level of service, measurable performance standards, responsibilities, and what happens when those standards are not met.
+
 An SLA establishes a **clear and measurable understanding of service expectations** between both parties. It helps organizations monitor service quality, manage expectations, and continuously improve their services.
 
 ---
